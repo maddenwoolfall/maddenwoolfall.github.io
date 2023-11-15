@@ -62,17 +62,17 @@ p {
 }
 
 h1 {
-  animation-duration: 4s;
+  animation-duration: 3s;
   animation-name: fadein;
 }
 
 h2 {
-  animation-duration: 4s;
+  animation-duration: 3s;
   animation-name: fadein;
 }
 
 p {
-  animation-duration: 4s;
+  animation-duration: 3s;
   animation-name: fadein;
 }
 
@@ -88,6 +88,6 @@ p {
 }
 
 .floating-text {
-  animation: floatAndFade 1.5s ease-out;
+  animation: fadein 1.5s ease-out;
 }
 
